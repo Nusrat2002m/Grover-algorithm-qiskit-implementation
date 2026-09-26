@@ -17,4 +17,4 @@ In this implementation:
 
 Run the script:
 
-python grovers_search.py
+    python grovers_search.py
